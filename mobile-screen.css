@@ -31,6 +31,18 @@ background-color: #333333;
 .width-100{
   width: 100%;
 }
+.width-19{
+  width: 19px;
+}
+/* 미들2-2 첫번째 박스 */
+.width-286{
+  width: 286px;
+}
+/* 미들2-2 두번째 박스 */
+.width-125{
+  width: 125px;
+}
+/* 미들2-2 세번째 박스 */
 .height-219{ 
   height: 219px;
 } 
@@ -47,12 +59,23 @@ background-color: #333333;
   height: 115px;
 }
 /* middle1-container-네번째박스 */
-
+.height-231{
+  height: 231px;
+}
+.height-354{
+  height: 354px;
+}
+.height-147{
+  height: 147px;
+}
 .flex {
   display: flex;
 }
 .flex-direction-column{
   flex-direction: column;
+}
+.justify-content{
+  justify-content:space-between ;
 }
 .text-set-center{
   display: flex;
