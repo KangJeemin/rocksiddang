@@ -16,9 +16,52 @@
 #middle2-container{
 width: 100%;
 height: 732px;
+background-color: #2196F3;;
 }
 #bottom-container{
 width: 100%;
 height: 200px;
+background-color: #333333;
 }
-#top-conponent1{}
+#top-conponent1{
+  width: 100%;
+  height: 100%;
+  background-color: #2196F3;
+}
+.width-100{
+  width: 100%;
+}
+.height-219{ 
+  height: 219px;
+} 
+/* middle1-container-첫번째박스 */
+.height-308{
+  height: 308px;
+}
+/* middle1-container-두번째박스 */
+.height-180{
+  height: 180px;
+}
+/* middle1-container-세번째박스 */
+.height-115{
+  height: 115px;
+}
+/* middle1-container-네번째박스 */
+
+.flex {
+  display: flex;
+}
+.flex-direction-column{
+  flex-direction: column;
+}
+.text-set-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.color-white{
+  color: white;
+}
+/* 미들 컨테이너 컨포넌트들 */
+
+/* 미들컨테이너 컨포넌트들 */
