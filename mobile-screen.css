@@ -29,14 +29,21 @@ background-color: #333333;
   height: 100%;
   background-color: #2196F3;
 }
-.bottom-59{
-  bottom: 59px;
-}
+
 .width-100{
   width: 100%;
 }
 .width-19{
   width: 19px;
+}
+.width-42{
+  width: 42px;
+}
+.width-43{
+  width: 43px;
+}
+.width-345{
+  width: 345px;
 }
 /* 미들2-2 첫번째 박스 */
 .width-286{
@@ -63,6 +70,16 @@ background-color: #333333;
   height: 115px;
 }
 /* middle1-container-네번째박스 */
+.height-58{
+  height: 58px;
+}
+.height-60{
+  height: 60px;
+}
+.height-82{
+height: 82px;
+}
+
 .height-231{
   height: 231px;
 }
@@ -99,11 +116,24 @@ background-color: #333333;
   font-size: 96px;
   color: #333333;
 }
+.middle2-font{
+  font-family: 'Karantina';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 128px;
+}
 .font-size-12{
   font-family: 'Inter';
   font-style: normal;
   font-size: 12px;
   color: #333333;
+}
+.border-bottom-white{
+  border-width: 4px;
+  border-color: white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
 }
 .font-weight-400{
   font-weight: 400;
@@ -132,11 +162,20 @@ background-color: #333333;
 .top-106{
   top:106px;
 }
+.top-113{
+  top: 113px;
+}
 .top-159{
   top:159px;
 }
 .top-212{
   top:212px;
+}
+.top-224{
+  top:224px;
+}
+.bottom-59{
+  bottom: 59px;
 }
 .trans180d{
   transform: rotate(180deg);
