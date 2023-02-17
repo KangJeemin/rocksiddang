@@ -26,9 +26,7 @@ background-color: #333333;
   height: 100%;
   background-color: #2196F3;
 }
-.margin2{
-  margin-bottom: 2px;
-}
+
 .height-10{
   height: 10px;
 }
@@ -133,6 +131,7 @@ height: 82px;
   font-style: normal;
   font-weight: 400;
   font-size: 8px;
+  line-height: 10px;
   color: #F0F0F0;
 }
 .font-size-12{
